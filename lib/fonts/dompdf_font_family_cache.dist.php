@@ -92,6 +92,13 @@ return function ($rootDir) {
                 'bold_italic' => $distFontDir . '/DejaVuSerif-BoldItalic',
                 'italic' => $distFontDir . '/DejaVuSerif-Italic',
                 'normal' => $distFontDir . '/DejaVuSerif'
+            ],
+        'poppins' =>
+            [
+                'bold' => $distFontDir . '/poppins_600_912dbbc3f75b7cae924c4cf22399a37a',
+                'bold_italic' => $distFontDir . '/Poppins-SemiBoldItalic',
+                'italic' => $distFontDir . '/Poppins-Italic',
+                'normal' => $distFontDir . '/poppins_300_e71b2fb23a980d0c965c7fb99c4a84bc'
             ]
     ];
 };
