@@ -100,5 +100,6 @@ return function ($rootDir) {
                 'italic' => $distFontDir . '/Poppins-Italic',
                 'normal' => $distFontDir . '/poppins_300_e71b2fb23a980d0c965c7fb99c4a84bc'
             ]
+        //font poppins
     ];
 };
